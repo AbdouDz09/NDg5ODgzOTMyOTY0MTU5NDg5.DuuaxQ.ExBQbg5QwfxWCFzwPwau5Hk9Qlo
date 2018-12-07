@@ -135,7 +135,7 @@ client.user.setStatus("Dz")
       console.log(`ON ${client.guilds.size} Servers '     Script By : abdou-DZ ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`d!help Dream !! ,`,"http://twitch.tv/abdoufersaoui_dz")
+client.user.setGame(`d!help ҝгҝ Brodcast ,`,"http://twitch.tv/abdoufersaoui_dz")
 client.user.setStatus("Dz")
 });
 
